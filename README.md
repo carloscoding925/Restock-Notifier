@@ -1,7 +1,5 @@
 # Item Restock Notifier
 
----
-
 ### Design Spec 
 - Using Playwright to check a website and see if an item is in/out of stock
 - Github Actions workflow to run this every 12 hours
